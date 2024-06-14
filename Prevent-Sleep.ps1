@@ -1,7 +1,7 @@
 #!/usr/bin/env powershell
 
 # https://gist.github.com/CMCDragonkai/bf8e8b7553c48e4f65124bc6f41769eb
-# i just added the while loop, because otherwise it didnt worked for my system
+# I only added the while loop because otherwise it did not work for my system
 
 # This script can keep the computer awake while executing another executable, or
 # if no executable was passed in, then it stays awake until this script stops.
